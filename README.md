@@ -1,6 +1,8 @@
 ![](gow.gif)
 
-<div style="text-align:center><img src="gow.gif" /></div>
+<p align="center">
+  <img src="gow.gif" />
+</p>
 
 <!--
 **petesamper/petesamper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
