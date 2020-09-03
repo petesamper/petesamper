@@ -1,5 +1,3 @@
-![](gow.gif)
-
 <p align="center">
   <img src="gow.gif" />
 </p>
