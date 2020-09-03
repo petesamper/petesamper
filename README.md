@@ -1,5 +1,4 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=petesamper&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-
+![Alt Text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgur.com%2Fgallery%2FVMJiS&psig=AOvVaw2DMTPj16ySq9r-lECqqXgg&ust=1599184229312000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICMydLvy-sCFQAAAAAdAAAAABAD)
 <!--
 **petesamper/petesamper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
